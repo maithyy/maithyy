@@ -1,6 +1,8 @@
 ### hi there ^__^
 I'm a sophomore at UCI studying Computer Science!
 
+Pronouns: she/her/hers \
+Currently working on a personal website
 
 <!--
 **maithyy/maithyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
