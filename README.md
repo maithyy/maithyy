@@ -1,4 +1,4 @@
 ### hi there ^__^
-I'm a sophomore at UCI studying Computer Science!
+I'm a junior at UCI studying Computer Science!
 
 Pronouns: she/her/hers 
